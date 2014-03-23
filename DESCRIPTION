@@ -1,8 +1,9 @@
-Package: demo
-Title: 
-Description: 
+Package: sshcc
+Title: Semi-Supervised Hierarchical Clustering and Classification
+Description: Agglomerative and divisive clustering and classification functions. 
 Version: 0.1
-Authors@R: # getOptions('devtools.desc.author')
+Authors@R: Troy Hernandez <troy.a.hernandez@gmail.com>
 Depends: R (>= 3.0.3)
-License: # getOptions('devtools.desc.license')
+License: MIT
+Maintainer: Troy Hernandez <troy.a.hernandez@gmail.com>
 LazyData: true
